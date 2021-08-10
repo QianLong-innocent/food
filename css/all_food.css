@@ -1,0 +1,13 @@
+/*   菜谱大全   */
+#food_top{
+	
+	width: 50%;
+	height: 120px;
+	line-height: 120px;
+	margin-left: 21%;
+	font-size: 24px;
+	text-align: center;
+	font-family: "microsoft yahei";
+	color: #222;
+	float: left;
+}

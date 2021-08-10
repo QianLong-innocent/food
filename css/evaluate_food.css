@@ -1,0 +1,51 @@
+#me_want{
+	
+
+	margin-left: 42%;
+	height: 40px;
+	width: 150px;
+	font-family: 宋体;
+	color: #FFFFFF;
+	font-size: 20px;
+	margin-top: 100px;
+	float: left;
+	line-height: 20px;
+}
+
+
+#want_content{
+	
+	width: 50%;
+	height: 820px;
+	margin-left: 23%;
+	float: left;
+}
+
+#want_content2{
+	
+	width: 25%;
+	height: 250px;
+	margin: 100px;
+	float: left;
+	
+}
+
+#want_page{
+	width: 350px;
+	height: 20px;
+	margin-left: 38%;
+	float: left;
+}
+
+#shouye{
+	width: 35px;
+	margin: 10px;
+	line-height: 20px;
+	float: left;
+}
+#shangyiye{
+	width: 50px;
+	margin: 10px;
+	line-height: 20px;
+	float: left;
+}

@@ -1,0 +1,57 @@
+/*   菜谱大全   */
+#food_top2{
+	
+	width: 50%;
+	height: 120px;
+	line-height: 120px;
+	margin-left: 21%;
+	font-size: 24px;
+	text-align: center;
+	font-family: "microsoft yahei";
+	color: #222;
+	float: left;
+}
+
+#health_div{
+	width: 45%;
+	height: 1450px;
+	float: left;
+	margin-left: 25%;
+	background-color: #fff;
+}
+
+
+
+#health_content{
+	width: 100%;
+	height: 150px;
+	margin: 40px;
+	float:left;
+}
+#health_content_con{
+	border-bottom-style: solid;
+	width: 60%;
+	height: 160px;
+	margin: 30px;
+	
+}
+
+.box{width: 60%;height: 600px;margin-bottom: 20px;overflow: hidden;position: relative;margin-left: 18%;}
+.box-1 ul{}
+.box-1 ul li{width: 100%;height: 600px;position: relative;overflow: hidden;}
+.box-1 ul li img{display:block;width: 100%; height: 600px;}
+.box-1 ul li h2{position: absolute;left: 0;bottom: 0;height: 40px;width:300px;background: rgba(125,125,120,.4);text-indent: 2em;
+				padding-right:500px ;font-size: 15px;line-height: 40px;text-overflow: ellipsis;overflow: hidden;
+				white-space: nowrap;font-weight: normal;color: ghostwhite}
+.box-2{position: absolute;right: 10px;bottom: 14px;}
+.box-2 ul li{float:left;width: 12px;height: 12px;overflow: hidden; margin: 0 5px; border-radius: 50%;
+				background: rgba(0,0,0,0.5);text-indent: 100px;cursor: pointer;}
+.box-2 ul .on{background: rgba(255,255,255,0.6);}
+.box-3 span{position: absolute;color: white;background: rgba(125,125,120,.3);width: 50px;height: 80px;
+				top:50%; font-family: "宋体";line-height: 80px;font-size:60px;margin-top: -40px;
+				text-align: center;cursor: pointer;}
+.box-3 .prev{left: 10px;}
+.box-3 .next{right: 10px;}
+.box-3 span::selection{background: transparent;}
+.box-3 span:hover{background: rgba(125,125,120,.8);}
+

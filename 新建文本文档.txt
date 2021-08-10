@@ -1,0 +1,13 @@
+<center>
+				<div id="mid-mid"><a href="health_news.php"><p class="p1">新闻资讯</p></a></div>
+			</center>
+			
+			
+			<div id="neirong">
+				<div id="neirong-neirong"><a href=""><img src="https://i3.meishichina.com/attachment/article/2019/12/20/20191220157683286063010138013.jpg" id="aaaaaaaa"></a></div>
+				<div id="neirong-neirong"><a href=""><img src="https://i3.meishichina.com/attachment/article/2019/12/20/20191220157683285357510138013.jpg" id="aaaaaaaa"></a></div>
+				<div id="neirong-neirong"><a href=""><img src="https://i3.meishichina.com/attachment/article/2019/12/20/20191220157682463564610169539.jpg" id="aaaaaaaa"></a></div>
+				<div id="neirong-neirong"><a href=""><img src="https://i3.meishichina.com/attachment/article/2019/12/18/20191218157666340576810138013.jpg" id="aaaaaaaa"></a></div>
+				<div id="neirong-neirong"><a href=""><img src="https://i3.meishichina.com/attachment/article/2019/12/19/20191219157674609592010169539.jpg" id="aaaaaaaa"></a></div>
+				<div id="neirong-neirong"><a href=""><img src="http://images.meishij.net/p/20191009/249b12ded1c83d9c201f347602301517.jpg" id="aaaaaaaa"></a></div>
+			</div>
